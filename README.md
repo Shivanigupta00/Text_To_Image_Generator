@@ -1,16 +1,36 @@
-# text_to_image_app
+# 🖼️ Text to Image Generator
 
-A new Flutter project.
+A Flutter-based mobile application that allows users to generate images from text prompts using an external AI-powered API.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Convert any text prompt into a visually appealing image
+- Simple and clean UI with real-time image preview
+- API integration for image generation (e.g., DALL·E, Replicate, or other AI services)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- Add screenshots in assets folder and link them here -->
+<p align="center">
+  <img src="assets/screenshot1.png" width="250"/>
+  <img src="assets/screenshot2.png" width="250"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend/API:** RESTful API for text-to-image generation (you can plug in DALL·E, Replicate, etc.)
+
+## 📦 Packages Used
+
+- `http` – For making API requests
+- `flutter_dotenv` – To manage API keys securely (if used)
+- `provider` or `get` – For state management (if applicable)
+
+## 🔧 Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivanigupta00/Text_To_Image_Generator.git
+   cd Text_To_Image_Generator
+
