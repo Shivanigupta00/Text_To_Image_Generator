@@ -12,7 +12,8 @@ A Flutter-based mobile application that allows users to generate images from tex
 
 <!-- Add screenshots in assets folder and link them here -->
 <p align="center">
-  <img src="assets/screenshot1.png" width="250"/>
+  <img src="assets/<img width="534" height="500" alt="screenshot1" src="https://github.com/user-attachments/assets/e71a2a7f-7c50-4953-a170-81a2b387f514" />
+" width="150"/>
   <img src="assets/screenshot2.png" width="250"/>
 </p>
 
