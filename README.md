@@ -6,7 +6,7 @@ A Flutter-based mobile application that allows users to generate images from tex
 
 - Convert any text prompt into a visually appealing image
 - Simple and clean UI with real-time image preview
-- API integration for image generation (e.g., DALL·E, Replicate, or other AI services)
+- API integration for image generation (e.g., Stability API AI services)
 
 ## 📱 Screenshots
 
