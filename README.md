@@ -33,4 +33,31 @@ A Flutter-based mobile application that allows users to generate images from tex
    ```bash
    git clone https://github.com/Shivanigupta00/Text_To_Image_Generator.git
    cd Text_To_Image_Generator
+2. Get packages:
+    flutter pub get
 
+3. Run the app:  
+    flutter run
+
+## 📁 Project Structure
+
+lib/
+├── main.dart
+├── api_service.dart
+├── ui/
+│ ├── home_screen.dart
+│ └── image_display.dart
+   
+💡 Future Improvements
+Add image download and share functionality
+
+Add prompt suggestions
+
+Improve loading state and error handling
+
+🙌 Contributing
+Feel free to fork the project and submit pull requests. Open issues for bugs or feature suggestions.
+
+✨ Made with Flutter and ❤️ by Shivani Gupta
+
+---
