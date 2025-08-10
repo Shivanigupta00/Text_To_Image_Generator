@@ -61,6 +61,6 @@ Improve loading state and error handling
 🙌 Contributing
 Feel free to fork the project and submit pull requests. Open issues for bugs or feature suggestions.
 
-✨ Made with Flutter and ❤️ by Shivani Gupta
+
 
 ---
