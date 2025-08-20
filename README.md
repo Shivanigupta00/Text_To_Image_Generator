@@ -1,6 +1,6 @@
 # 🖼️ Text to Image Generator
 
-A Flutter-based mobile application that allows users to generate images from text prompts using an external AI-powered API.
+A Flutter-based mobile/Web application that allows users to generate images from text prompts using an external AI-powered API.
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ A Flutter-based mobile application that allows users to generate images from tex
 ## 🛠️ Tech Stack
 
 - **Frontend:** Flutter (Dart)
-- **Backend/API:** RESTful API for text-to-image generation (you can plug in DALL·E, Replicate, etc.)
+- **Backend/API:** Stability API for text-to-image generation (you can plug in DALL·E, Replicate, etc.)
 
 ## 📦 Packages Used
 
