@@ -87,7 +87,8 @@ Future<Uint8List?> _generate(String query) async {
     return Scaffold(
       backgroundColor: const Color.fromARGB(231, 230, 205, 255),
       body: Center(
-        child: Column(
+        child:SingleChildScrollView(
+          child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
@@ -154,6 +155,7 @@ Future<Uint8List?> _generate(String query) async {
               child: const Text("Generate Image"),
             ),
           ],
+          ),
         ),
       ),
     );
