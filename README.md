@@ -19,7 +19,7 @@ A Flutter-based mobile/Web application that allows users to generate images from
 
 
 # DEMO VIDEO 
-[https://drive.google.com/file/d/1CTq7RRdcIiqONOVPujVk-UHaIttiNK3Y/view?usp=sharing]
+(https://drive.google.com/file/d/1Yxap4vQiMSrEZSkA1JjgrmC40KrvZLI1/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 
