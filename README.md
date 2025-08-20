@@ -18,7 +18,7 @@ A Flutter-based mobile/Web application that allows users to generate images from
 
 
 
-
+## DEMO VIDEO - [https://drive.google.com/file/d/1CTq7RRdcIiqONOVPujVk-UHaIttiNK3Y/view?usp=sharing]
 ## 🛠️ Tech Stack
 
 - **Frontend:** Flutter (Dart)
