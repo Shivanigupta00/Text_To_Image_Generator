@@ -24,12 +24,11 @@ A Flutter-based mobile/Web application that allows users to generate images from
 ## 🛠️ Tech Stack
 
 - **Frontend:** Flutter (Dart)
-- **Backend/API:** Stability API for text-to-image generation (you can plug in DALL·E, Replicate, etc.)
+- **Backend/API:** Stability API for text-to-image generation
 
 ## 📦 Packages Used
 
 - `http` – For making API requests
-- `flutter_dotenv` – To manage API keys securely (if used)
 - `provider` or `get` – For state management (if applicable)
 
 ## 🔧 Setup Instructions
