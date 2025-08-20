@@ -12,7 +12,7 @@ A Flutter-based mobile/Web application that allows users to generate images from
 
 <!-- Add screenshots in assets folder and link them here -->
 <p align="center">
-  <img width="300" alt="screenshot1" src="https://github.com/user-attachments/assets/6d94880e-cdfb-4030-b0c1-6113304e1671" />
+  <img width="1919" height="1026" alt="Screenshot 2025-08-20 123856" src="https://github.com/user-attachments/assets/6567bec6-ea73-490d-8162-cca0a7e38e74" />
   <img width="1902" height="884" alt="Screenshot 2025-08-20 123343" src="https://github.com/user-attachments/assets/c6d7abc5-82b0-4421-8acc-49d4411914db" />
 </p>
 
