@@ -1,6 +1,6 @@
 # 🖼️ Text to Image Generator
 
-A Flutter-based mobile/Web application that allows users to generate images from text prompts using an external AI-powered API.
+A Web application that allows users to generate images from text prompts using an external AI-powered API.
 
 ## 🚀 Features
 
