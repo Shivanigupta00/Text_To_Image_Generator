@@ -37,20 +37,17 @@ A Web application that allows users to generate images from text prompts using a
    ```bash
    git clone https://github.com/Shivanigupta00/Text_To_Image_Generator.git
    cd Text_To_Image_Generator
-2. Get packages:
-    flutter pub get
 
-3. Run the app:  
-    flutter run
+2. Run the app:  
+    npm run dev
 
 ## 📁 Project Structure
 
-lib/
-├── main.dart
-├── api_service.dart
-├── ui/
-│ ├── home_screen.dart
-│ └── image_display.dart
+src/
+├── index.html
+├── styles.css
+├── app.js
+└── api_service.js
    
 💡 Future Improvements
 Add image download and share functionality
