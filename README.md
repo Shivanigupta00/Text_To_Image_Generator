@@ -23,8 +23,8 @@ A Web application that allows users to generate images from text prompts using a
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Flutter (Dart)
-- **Backend/API:** Stability API for text-to-image generation
+- **Frontend:** HTML,CSS
+- **Backend/API:**JavaScript, Stability API for text-to-image generation
 
 ## 📦 Packages Used
 
